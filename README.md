@@ -5,7 +5,7 @@
 <h2>👨‍💻 SOC - HoneyNet Project:</h2>
 
 - <b>Azure (HoneyNet)</b>
-  - [Creating a SOC / HoneyNet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a SOC / HoneyNet in Azure] (https://github.com/da3rdg/SOC-HoneyNet/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
