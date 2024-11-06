@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/gus-woodward-dmc-d-4k-eava-hcnp-27320734/">Cybersecurity Professional</a>
  <br/>
-<h2> SOC - HoneyNet Project:</h2>
+<h2> SOC - HoneyNet Project in Azure :</h2> https://github.com/da3rdg/SOC-HoneyNet
 
  
 
