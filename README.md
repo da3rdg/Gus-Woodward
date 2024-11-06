@@ -6,14 +6,14 @@
 
  
 
-<h2>Licenses & certifications</h2>
+<h2>[Licenses & certifications]</h2>
 
-- [Licenses & Certifications] (https://www.linkedin.com/in/gus-woodward-dmc-d-4k-eava-hcnp-27320734/details/certifications/)
+- (https://www.linkedin.com/in/gus-woodward-dmc-d-4k-eava-hcnp-27320734/details/certifications/)
 - [17+ Years of AV Experience](https://www.avispl.com)
  
   
 
-<h2>  Connect with me:</h2>
+<h2>  [Recommendations]</h2> https://www.linkedin.com/in/gus-woodward-dmc-d-4k-eava-hcnp-27320734/details/recommendations/?detailScreenTabIndex=0
 
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
