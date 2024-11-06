@@ -9,9 +9,8 @@
 <h2>Licenses & certifications</h2>
 
 - [Licenses & Certifications] (https://www.linkedin.com/in/gus-woodward-dmc-d-4k-eava-hcnp-27320734/details/certifications/)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [17+ Years of AV Experience](https://www.avispl.com)
+ 
   
 
 <h2> 🤳 Connect with me:</h2>
